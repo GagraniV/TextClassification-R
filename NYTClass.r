@@ -7,7 +7,7 @@
 # 3) Model Predction: use the calibrated and validated model to predict third subset or future data 
 ###############################################################################################
 ###############################################################################################
-setwd("~/Documents/FreeLancer/TEST/text")
+setwd("~/Documents/text")
 library("RTextTools")
 library("plyr")
 library("Matrix")
